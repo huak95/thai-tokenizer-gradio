@@ -1,0 +1,2 @@
+gradio==4.27.0
+pythainlp==5.0.2
